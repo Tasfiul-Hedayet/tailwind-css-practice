@@ -11,6 +11,11 @@ export default function Home() {
     <div><Link href="/payment"> Payment </Link></div>
     <div><Link href="/admin"> Admin </Link></div>
   </div>
+
+  <span className="box-decoration-clone bg-gradient-to-r from-indigo-600 to-pink-500 text-white px-2 ...">
+  Hello<br/>
+  World
+</span>
  
      
      
